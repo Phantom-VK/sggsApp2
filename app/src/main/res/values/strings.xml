@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">sggsApp</string>
+    <string name="sign_up">Sign up</string>
+    <string name="full_name">Full Name</string>
+    <string name="college_email">College Email</string>
+    <string name="reg_number">Registration Number</string>
+    <string name="mob_number">Mobile Number</string>
+    <string name="already_acc">Already have an account?</string>
+    <string name="notif_title">Notification title</string>
+    <string name="notification">Notifications</string>
+    <string name="notif_text">Notification text</string>
+    <string name="view_more">View more...</string>
+</resources>
